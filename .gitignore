@@ -1,6 +1,1 @@
-# =========================
-# Unnecessary App Files and Dirs
-# =========================
-
-# App Directories
-node_modules/
+node_modules
