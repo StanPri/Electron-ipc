@@ -2,7 +2,7 @@
   "name": "electron-es6-react",
   "version": "0.1.0",
   "main": "bootstrapper.js",
-  "license": "MIT",
+  "author": "StanPri",
   "repository": "b52/electron-es6-react",
   "scripts": {
     "start": "electron ."
