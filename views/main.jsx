@@ -9,5 +9,6 @@ export default class Main extends React.Component {
         Hello from React with ES6 :)
       </div>;
       //TODO: add more components and test them with electron
+      //TODO: add WebPack 2
   }
 }
